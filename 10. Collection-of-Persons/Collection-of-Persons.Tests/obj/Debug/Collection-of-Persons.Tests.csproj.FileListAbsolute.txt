@@ -1,0 +1,8 @@
+C:\Users\Denislav\Downloads\10. Collection-of-Persons\Collection-of-Persons.Tests\bin\Debug\Collection-of-Persons.Tests.dll
+C:\Users\Denislav\Downloads\10. Collection-of-Persons\Collection-of-Persons.Tests\bin\Debug\Collection-of-Persons.Tests.pdb
+C:\Users\Denislav\Downloads\10. Collection-of-Persons\Collection-of-Persons.Tests\bin\Debug\Collection-of-Persons.exe
+C:\Users\Denislav\Downloads\10. Collection-of-Persons\Collection-of-Persons.Tests\bin\Debug\Collection-of-Persons.pdb
+C:\Users\Denislav\Downloads\10. Collection-of-Persons\Collection-of-Persons.Tests\obj\Debug\Collection-of-Persons.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Denislav\Downloads\10. Collection-of-Persons\Collection-of-Persons.Tests\obj\Debug\Collection-of-Persons.Tests.dll
+C:\Users\Denislav\Downloads\10. Collection-of-Persons\Collection-of-Persons.Tests\obj\Debug\Collection-of-Persons.Tests.pdb
+C:\Users\Denislav\Downloads\10. Collection-of-Persons\Collection-of-Persons.Tests\bin\Debug\PowerCollections.dll

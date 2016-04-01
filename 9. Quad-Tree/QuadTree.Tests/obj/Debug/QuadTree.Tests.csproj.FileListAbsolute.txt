@@ -1,0 +1,7 @@
+C:\Users\Denislav\Downloads\9. Quad-Tree\QuadTree.Tests\bin\Debug\QuadTree.Tests.dll
+C:\Users\Denislav\Downloads\9. Quad-Tree\QuadTree.Tests\bin\Debug\QuadTree.Tests.pdb
+C:\Users\Denislav\Downloads\9. Quad-Tree\QuadTree.Tests\bin\Debug\QuadTree.Core.dll
+C:\Users\Denislav\Downloads\9. Quad-Tree\QuadTree.Tests\bin\Debug\QuadTree.Core.pdb
+C:\Users\Denislav\Downloads\9. Quad-Tree\QuadTree.Tests\obj\Debug\QuadTree.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Denislav\Downloads\9. Quad-Tree\QuadTree.Tests\obj\Debug\QuadTree.Tests.dll
+C:\Users\Denislav\Downloads\9. Quad-Tree\QuadTree.Tests\obj\Debug\QuadTree.Tests.pdb

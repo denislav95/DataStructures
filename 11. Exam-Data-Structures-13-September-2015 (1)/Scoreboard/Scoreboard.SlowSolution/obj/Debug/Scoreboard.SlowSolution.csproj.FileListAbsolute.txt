@@ -1,0 +1,8 @@
+C:\Users\Denislav\Downloads\11. Exam-Data-Structures-13-September-2015 (1)\Scoreboard\Scoreboard.SlowSolution\bin\Debug\Scoreboard.SlowSolution.exe.config
+C:\Users\Denislav\Downloads\11. Exam-Data-Structures-13-September-2015 (1)\Scoreboard\Scoreboard.SlowSolution\bin\Debug\Scoreboard.SlowSolution.exe
+C:\Users\Denislav\Downloads\11. Exam-Data-Structures-13-September-2015 (1)\Scoreboard\Scoreboard.SlowSolution\bin\Debug\Scoreboard.SlowSolution.pdb
+C:\Users\Denislav\Downloads\11. Exam-Data-Structures-13-September-2015 (1)\Scoreboard\Scoreboard.SlowSolution\obj\Debug\Scoreboard.SlowSolution.csprojResolveAssemblyReference.cache
+C:\Users\Denislav\Downloads\11. Exam-Data-Structures-13-September-2015 (1)\Scoreboard\Scoreboard.SlowSolution\obj\Debug\Scoreboard.SlowSolution.exe
+C:\Users\Denislav\Downloads\11. Exam-Data-Structures-13-September-2015 (1)\Scoreboard\Scoreboard.SlowSolution\obj\Debug\Scoreboard.SlowSolution.pdb
+C:\Users\Denislav\Downloads\11. Exam-Data-Structures-13-September-2015 (1)\Scoreboard\Scoreboard.SlowSolution\bin\Debug\SoftUni.Wintellect.PowerCollections.dll
+C:\Users\Denislav\Downloads\11. Exam-Data-Structures-13-September-2015 (1)\Scoreboard\Scoreboard.SlowSolution\bin\Debug\SoftUni.Wintellect.PowerCollections.xml

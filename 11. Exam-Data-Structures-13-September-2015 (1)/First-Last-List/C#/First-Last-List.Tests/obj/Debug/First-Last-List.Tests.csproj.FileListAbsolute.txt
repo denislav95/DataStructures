@@ -1,0 +1,8 @@
+C:\Users\Denislav\Downloads\11. Exam-Data-Structures-13-September-2015 (1)\First-Last-List\C#\First-Last-List.Tests\bin\Debug\First-Last-List.Tests.dll
+C:\Users\Denislav\Downloads\11. Exam-Data-Structures-13-September-2015 (1)\First-Last-List\C#\First-Last-List.Tests\bin\Debug\First-Last-List.Tests.pdb
+C:\Users\Denislav\Downloads\11. Exam-Data-Structures-13-September-2015 (1)\First-Last-List\C#\First-Last-List.Tests\bin\Debug\First-Last-List.exe
+C:\Users\Denislav\Downloads\11. Exam-Data-Structures-13-September-2015 (1)\First-Last-List\C#\First-Last-List.Tests\bin\Debug\First-Last-List.pdb
+C:\Users\Denislav\Downloads\11. Exam-Data-Structures-13-September-2015 (1)\First-Last-List\C#\First-Last-List.Tests\obj\Debug\First-Last-List.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Denislav\Downloads\11. Exam-Data-Structures-13-September-2015 (1)\First-Last-List\C#\First-Last-List.Tests\obj\Debug\First-Last-List.Tests.dll
+C:\Users\Denislav\Downloads\11. Exam-Data-Structures-13-September-2015 (1)\First-Last-List\C#\First-Last-List.Tests\obj\Debug\First-Last-List.Tests.pdb
+C:\Users\Denislav\Downloads\11. Exam-Data-Structures-13-September-2015 (1)\First-Last-List\C#\First-Last-List.Tests\bin\Debug\PowerCollections.dll

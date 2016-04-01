@@ -1,0 +1,11 @@
+C:\Users\Denislav\Downloads\11. Exam-Data-Structures-13-September-2015 (1)\Scoreboard\Scoreboard.Tests\bin\Debug\Scoreboard.Tests.dll
+C:\Users\Denislav\Downloads\11. Exam-Data-Structures-13-September-2015 (1)\Scoreboard\Scoreboard.Tests\bin\Debug\Scoreboard.Tests.pdb
+C:\Users\Denislav\Downloads\11. Exam-Data-Structures-13-September-2015 (1)\Scoreboard\Scoreboard.Tests\bin\Debug\Scoreboard.SlowSolution.exe
+C:\Users\Denislav\Downloads\11. Exam-Data-Structures-13-September-2015 (1)\Scoreboard\Scoreboard.Tests\bin\Debug\Scoreboard.Solution.exe
+C:\Users\Denislav\Downloads\11. Exam-Data-Structures-13-September-2015 (1)\Scoreboard\Scoreboard.Tests\bin\Debug\SoftUni.Wintellect.PowerCollections.dll
+C:\Users\Denislav\Downloads\11. Exam-Data-Structures-13-September-2015 (1)\Scoreboard\Scoreboard.Tests\bin\Debug\Scoreboard.SlowSolution.pdb
+C:\Users\Denislav\Downloads\11. Exam-Data-Structures-13-September-2015 (1)\Scoreboard\Scoreboard.Tests\bin\Debug\Scoreboard.Solution.pdb
+C:\Users\Denislav\Downloads\11. Exam-Data-Structures-13-September-2015 (1)\Scoreboard\Scoreboard.Tests\bin\Debug\SoftUni.Wintellect.PowerCollections.xml
+C:\Users\Denislav\Downloads\11. Exam-Data-Structures-13-September-2015 (1)\Scoreboard\Scoreboard.Tests\obj\Debug\Scoreboard.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Denislav\Downloads\11. Exam-Data-Structures-13-September-2015 (1)\Scoreboard\Scoreboard.Tests\obj\Debug\Scoreboard.Tests.dll
+C:\Users\Denislav\Downloads\11. Exam-Data-Structures-13-September-2015 (1)\Scoreboard\Scoreboard.Tests\obj\Debug\Scoreboard.Tests.pdb

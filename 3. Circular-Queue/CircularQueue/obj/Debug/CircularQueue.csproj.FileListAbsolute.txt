@@ -1,0 +1,5 @@
+C:\Users\Denislav\Downloads\3. Circular-Queue\CircularQueue\bin\Debug\CircularQueue.exe
+C:\Users\Denislav\Downloads\3. Circular-Queue\CircularQueue\bin\Debug\CircularQueue.pdb
+C:\Users\Denislav\Downloads\3. Circular-Queue\CircularQueue\obj\Debug\CircularQueue.csprojResolveAssemblyReference.cache
+C:\Users\Denislav\Downloads\3. Circular-Queue\CircularQueue\obj\Debug\CircularQueue.exe
+C:\Users\Denislav\Downloads\3. Circular-Queue\CircularQueue\obj\Debug\CircularQueue.pdb

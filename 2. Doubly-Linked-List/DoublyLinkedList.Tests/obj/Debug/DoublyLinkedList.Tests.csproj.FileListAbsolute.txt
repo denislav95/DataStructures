@@ -1,0 +1,7 @@
+C:\Users\Denislav\Downloads\2. Doubly-Linked-List\DoublyLinkedList.Tests\bin\Debug\DoublyLinkedList.Tests.dll
+C:\Users\Denislav\Downloads\2. Doubly-Linked-List\DoublyLinkedList.Tests\bin\Debug\DoublyLinkedList.Tests.pdb
+C:\Users\Denislav\Downloads\2. Doubly-Linked-List\DoublyLinkedList.Tests\bin\Debug\DoublyLinkedList.exe
+C:\Users\Denislav\Downloads\2. Doubly-Linked-List\DoublyLinkedList.Tests\bin\Debug\DoublyLinkedList.pdb
+C:\Users\Denislav\Downloads\2. Doubly-Linked-List\DoublyLinkedList.Tests\obj\Debug\DoublyLinkedList.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Denislav\Downloads\2. Doubly-Linked-List\DoublyLinkedList.Tests\obj\Debug\DoublyLinkedList.Tests.dll
+C:\Users\Denislav\Downloads\2. Doubly-Linked-List\DoublyLinkedList.Tests\obj\Debug\DoublyLinkedList.Tests.pdb

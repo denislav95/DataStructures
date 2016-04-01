@@ -1,0 +1,7 @@
+C:\Users\Denislav\Downloads\11. Exam-Prepartion\Shopping-Center\Shopping-Center.Solution\bin\Debug\Shopping-Center.exe.config
+C:\Users\Denislav\Downloads\11. Exam-Prepartion\Shopping-Center\Shopping-Center.Solution\obj\Debug\Shopping-Center.Solution.csprojResolveAssemblyReference.cache
+C:\Users\Denislav\Downloads\11. Exam-Prepartion\Shopping-Center\Shopping-Center.Solution\bin\Debug\Shopping-Center.exe
+C:\Users\Denislav\Downloads\11. Exam-Prepartion\Shopping-Center\Shopping-Center.Solution\bin\Debug\Shopping-Center.pdb
+C:\Users\Denislav\Downloads\11. Exam-Prepartion\Shopping-Center\Shopping-Center.Solution\bin\Debug\PowerCollections.dll
+C:\Users\Denislav\Downloads\11. Exam-Prepartion\Shopping-Center\Shopping-Center.Solution\obj\Debug\Shopping-Center.exe
+C:\Users\Denislav\Downloads\11. Exam-Prepartion\Shopping-Center\Shopping-Center.Solution\obj\Debug\Shopping-Center.pdb

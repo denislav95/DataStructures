@@ -1,0 +1,7 @@
+C:\Users\Denislav\Downloads\11. Exam-Prepartion\Collection-of-Persons\Collection-of-Persons\bin\Debug\Collection-of-Persons.exe.config
+C:\Users\Denislav\Downloads\11. Exam-Prepartion\Collection-of-Persons\Collection-of-Persons\bin\Debug\Collection-of-Persons.exe
+C:\Users\Denislav\Downloads\11. Exam-Prepartion\Collection-of-Persons\Collection-of-Persons\bin\Debug\Collection-of-Persons.pdb
+C:\Users\Denislav\Downloads\11. Exam-Prepartion\Collection-of-Persons\Collection-of-Persons\bin\Debug\PowerCollections.dll
+C:\Users\Denislav\Downloads\11. Exam-Prepartion\Collection-of-Persons\Collection-of-Persons\obj\Debug\Collection-of-Persons.csprojResolveAssemblyReference.cache
+C:\Users\Denislav\Downloads\11. Exam-Prepartion\Collection-of-Persons\Collection-of-Persons\obj\Debug\Collection-of-Persons.exe
+C:\Users\Denislav\Downloads\11. Exam-Prepartion\Collection-of-Persons\Collection-of-Persons\obj\Debug\Collection-of-Persons.pdb

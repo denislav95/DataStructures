@@ -1,0 +1,5 @@
+C:\Users\Denislav\Downloads\9. Quad-Tree\QuadTree.Core\bin\Debug\QuadTree.Core.dll
+C:\Users\Denislav\Downloads\9. Quad-Tree\QuadTree.Core\bin\Debug\QuadTree.Core.pdb
+C:\Users\Denislav\Downloads\9. Quad-Tree\QuadTree.Core\obj\Debug\QuadTree.Core.csprojResolveAssemblyReference.cache
+C:\Users\Denislav\Downloads\9. Quad-Tree\QuadTree.Core\obj\Debug\QuadTree.Core.dll
+C:\Users\Denislav\Downloads\9. Quad-Tree\QuadTree.Core\obj\Debug\QuadTree.Core.pdb

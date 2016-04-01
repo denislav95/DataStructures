@@ -1,0 +1,7 @@
+C:\Users\Denislav\Downloads\6. Hash-Table\HashTable.Tests\bin\Debug\HashTable.Tests.dll
+C:\Users\Denislav\Downloads\6. Hash-Table\HashTable.Tests\bin\Debug\HashTable.Tests.pdb
+C:\Users\Denislav\Downloads\6. Hash-Table\HashTable.Tests\bin\Debug\HashTable.exe
+C:\Users\Denislav\Downloads\6. Hash-Table\HashTable.Tests\bin\Debug\HashTable.pdb
+C:\Users\Denislav\Downloads\6. Hash-Table\HashTable.Tests\obj\Debug\HashTable.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Denislav\Downloads\6. Hash-Table\HashTable.Tests\obj\Debug\HashTable.Tests.dll
+C:\Users\Denislav\Downloads\6. Hash-Table\HashTable.Tests\obj\Debug\HashTable.Tests.pdb
